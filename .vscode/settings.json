@@ -56,5 +56,5 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "GL Visio 2.sln"
+    "dotnet.defaultSolution": "GameLab-Concept-2.sln"
 }
